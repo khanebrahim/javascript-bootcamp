@@ -19,3 +19,6 @@ console.log(point.x + point.y)
 console.log(point['x'])
 var value='x'
 console.log(point[value])
+var dev ='x'
+point[dev]=34
+console.log(point)
