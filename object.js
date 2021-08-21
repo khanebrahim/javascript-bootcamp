@@ -14,3 +14,8 @@ console.log(obj)
 var obj2 =new Object()
 obj2.b=100
 console.log(obj2)
+console.log(point.x)
+console.log(point.x + point.y)
+console.log(point['x'])
+var value='x'
+console.log(point[value])
