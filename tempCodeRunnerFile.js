@@ -1,1 +1,1 @@
-for
+var point ={

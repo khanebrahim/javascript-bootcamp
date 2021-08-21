@@ -5,6 +5,8 @@ while(true){
         break;
     }else{
         length ++;
+        
+        
     }
 }
 console.log(length);
