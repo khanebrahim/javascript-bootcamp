@@ -22,3 +22,5 @@ console.log(point[value])
 var dev ='x'
 point[dev]=34
 console.log(point)
+delete point.x
+console.log(point)
