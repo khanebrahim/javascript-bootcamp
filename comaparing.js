@@ -13,3 +13,4 @@ for (var i in obj2){
     console.log(i)
     console.log(i+':'+obj2[i])
 }
+console.log(Object.keys(obj2))
